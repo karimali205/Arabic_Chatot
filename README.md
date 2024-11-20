@@ -1,4 +1,4 @@
-# Arabic_VirualAssistant
+# Arabic_Virual_Assistant
 
 This project aims to develop an AI chatbot trained on Arabic-language data. It leverages advanced techniques in natural language processing (NLP) to enable the model to understand and generate human-like responses in Arabic. The chatbot utilizes state-of-the-art transformer models from Hugging Face, with fine-tuning on a custom Arabic dataset for improved conversational accuracy and context retention.
 
